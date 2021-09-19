@@ -37,7 +37,7 @@ const {
 
 describe('nuevaString', function() {
   it('Deberia ser un string', function() {
-    expect(typeof nuevaString).toBe('string');
+    expect(typeof nuevaString).toBe("string");
   });
 });
 
